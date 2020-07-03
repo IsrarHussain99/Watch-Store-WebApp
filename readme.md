@@ -1,7 +1,6 @@
 The Readme file
 
-- Development tools
-- Laravel, HTML,PHP,Bootstap for CSS, Google API
+- Development tools: Laravel, HTML,PHP,Bootstap for CSS, Google API
 
 - Clone repo to xampp/htdocs 
 - Open Command Line - "xampp/php/php.exe" artisan serve 
