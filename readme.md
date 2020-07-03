@@ -1,5 +1,8 @@
 The Readme file
 
+- Development tools
+- Laravel, HTML,PHP,Bootstap for CSS, Google API
+
 - Clone repo to xampp/htdocs 
 - Open Command Line - "xampp/php/php.exe" artisan serve 
 this will run laravel (Laravel development server started: <http://127.0.0.1:8000>) 
